@@ -1,29 +1,32 @@
-### Day 2 – 29th July 2025
 
+
+````
 # Figma-to-Responsive-Webpage
+
+### 📅 Day 2 – 29th July 2025
 
 A fully responsive webpage built with **HTML** and **CSS**, based on a Figma design. The layout adapts seamlessly to **mobile**, **tablet**, and **desktop** screen sizes for an optimal user experience.
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- Figma (as design reference)
-- Visual Studio Code
+- HTML5  
+- CSS3  
+- Figma (as design reference)  
+- Visual Studio Code  
 
 ---
 
-## What I Learned
+## 📚 What I Learned
 
-- I had trouble using the `calc()` function to calculate the width of the cards dynamically.
-- I learned how to avoid stretching of images by using the `object-fit` property:
+- Faced challenges using the `calc()` function to calculate card widths dynamically.
+- Learned to avoid image stretching using the `object-fit` property:
   ```css
   object-fit: cover;
 ````
 
-* I also learned how to use **child selectors** to apply styles to only children of the parent selector:
+* Understood how to use **child selectors** to apply styles only to children of a parent selector:
 
   ```css
   .blog-card-image > img {
@@ -39,8 +42,9 @@ A fully responsive webpage built with **HTML** and **CSS**, based on a Figma des
 
 ---
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
-* [freeCodeCamp](https://www.youtube.com/c/Freecodecamp) for beginner-friendly tutorials
-* Figma for the design reference
+* [freeCodeCamp](https://www.youtube.com/c/Freecodecamp) – Beginner-friendly tutorials
+* Figma – Design reference platform
+
 
